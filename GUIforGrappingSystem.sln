@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIforGrappingSystem", "GUIforGrappingSystem\GUIforGrappingSystem.csproj", "{5160CA77-7515-41C7-8A17-014E0653C0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5160CA77-7515-41C7-8A17-014E0653C0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5160CA77-7515-41C7-8A17-014E0653C0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5160CA77-7515-41C7-8A17-014E0653C0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5160CA77-7515-41C7-8A17-014E0653C0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1582C538-A0A7-4E7E-B0D9-83FF8A80BF9A}
+	EndGlobalSection
+EndGlobal
